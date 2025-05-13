@@ -112,7 +112,7 @@ python train.py --config train.yaml
 ## 🧪 Test Command
 
 ```python
-python test.py 
+python test.py --config test.yaml
 ```
 
 ## 🖼️   Visualization
