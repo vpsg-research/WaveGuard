@@ -63,8 +63,8 @@ CelebA-HQ
 └── test
     └── ...
 ```
-
 Ensure all images are cropped and resized appropriately before training.
+
 ---
 
 ## 🎛️ Noise Layers
