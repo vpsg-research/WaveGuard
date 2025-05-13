@@ -1,7 +1,10 @@
 <div align="center">
-<h1> WaveGuard: Robust Deepfake Detection and Source
-Tracing via Dual-Tree Complex Wavelet and Graph
-Neural Networks
+
+<h1>WaveGuard</h1>
+
+<h4>Robust Deepfake Detection and Source Tracing via Dual-Tree Complex Wavelet and Graph Neural Networks</h4>
+
+</div>  <!-- ✅ 这一行必须加，结束居中区域 -->
 
 ## ⭐ Abstract
 
