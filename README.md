@@ -124,6 +124,17 @@ python test.py --config test.yaml
 Visualization of key modules in the WaveGuard framework.
 </div>
 
+## Citation
+Please cite our paper if the code is used in your research:
+```
+@article{he2025waveguard,
+  title={WaveGuard: Robust Deepfake Detection and Source Tracing via Dual-Tree Complex Wavelet and Graph Neural Networks},
+  author={He, Ziyuan and Guo, Zhiqing and Wang, Liejun and Yang, Gaobo and Diao, Yunfeng and Ma, Dan},
+  journal={arXiv preprint arXiv:2505.08614},
+  year={2025}
+}
+```
+
 ## 📬 Contact
 
 If you have any questions, please contact:
