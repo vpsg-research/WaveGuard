@@ -119,6 +119,11 @@ python test.py
 Visualization of key modules in the WaveGuard framework.
 </div>
 
+## Weights
+Baidu Wangpan
+Download Link: https://pan.baidu.com/s/1QdzVSp_3p6VJMFpzNu52rA?pwd=vpsg
+Extraction Code: vpsg 
+
 ## Citation
 Please cite our paper if the code is used in your research:
 ```
