@@ -101,13 +101,13 @@ These noise layers are automatically invoked during test-time robustness evaluat
 ## 🔧 Training Command
 
 ```python
-python train.py --config train.yaml
+python main.py
 ```
 
 ## 🧪 Test Command
 
 ```python
-python test.py --config test.yaml
+python test.py
 ```
 
 ## 🖼️   Visualization
