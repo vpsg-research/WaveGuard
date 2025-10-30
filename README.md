@@ -121,8 +121,8 @@ Visualization of key modules in the WaveGuard framework.
 
 ## Weights
 Baidu Wangpan
-Download Link: https://pan.baidu.com/s/1QdzVSp_3p6VJMFpzNu52rA?pwd=vpsg
-Extraction Code: vpsg 
+- Download Link: https://pan.baidu.com/s/1QdzVSp_3p6VJMFpzNu52rA?pwd=vpsg
+- Extraction Code: vpsg 
 
 ## Citation
 Please cite our paper if the code is used in your research:
