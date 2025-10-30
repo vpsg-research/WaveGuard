@@ -1,7 +1,7 @@
 <div align="center">
 
 
-<h1>WaveGuard: Robust Deepfake Detection and Source Tracing via Dual-Tree Complex Wavelet and Graph Neural Networks</h1>
+<h1>【TCSVT'25】WaveGuard: Robust Deepfake Detection and Source Tracing via Dual-Tree Complex Wavelet and Graph Neural Networks</h1>
 
 </div>  <!-- ✅ 这一行必须加，结束居中区域 -->
 
@@ -130,7 +130,7 @@ Please cite our paper if the code is used in your research:
 @article{he2025waveguard,
   title={WaveGuard: Robust Deepfake Detection and Source Tracing via Dual-Tree Complex Wavelet and Graph Neural Networks},
   author={He, Ziyuan and Guo, Zhiqing and Wang, Liejun and Yang, Gaobo and Diao, Yunfeng and Ma, Dan},
-  journal={arXiv preprint arXiv:2505.08614},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},
   year={2025}
 }
 ```
