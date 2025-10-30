@@ -1,9 +1,4 @@
-<div align="center">
-
-
-<h1>【TCSVT'25】WaveGuard: Robust Deepfake Detection and Source Tracing via Dual-Tree Complex Wavelet and Graph Neural Networks</h1>
-
-</div>  <!-- ✅ 这一行必须加，结束居中区域 -->
+【TCSVT'25】WaveGuard: Robust Deepfake Detection and Source Tracing via Dual-Tree Complex Wavelet and Graph Neural Networks
 
 ## ⭐ Abstract
 
@@ -35,8 +30,8 @@ Illustration of the overall architecture.
 - [x] Project page released
 - [x] Dataset preparation instructions released
 - [x] Release of core implementation
-- [ ] Release of training and evaluation scripts
-- [ ] Pretrained model and demo
+- [x] Release of training and evaluation scripts
+- [x] Pretrained model and demo
 
 ## 🖥️ Environment Setup
 
