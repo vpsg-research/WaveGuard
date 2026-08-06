@@ -72,31 +72,6 @@ We provide ready-to-use **noise generation layers** for simulating realistic dee
 
 These modules simulate various deepfake attacks and are used to evaluate the robustness and traceability of our watermarking system under adversarial scenarios.
 
-### 📦 How to Use
-
-We provide pre-configured noise models and environments. You can download them from Google Drive:
-
-👉 [Download Noise Modules](https://drive.google.com/file/d/188cj_lp8ljaI--nyXiXMUAC3VyKJgRWZ/view?usp=sharing)
-
-After downloading, please unzip the contents into the following path:
-
-```
-./network/
-```
-
-Ensure that your final project structure includes:
-
-```
-network/
-├── noise/
-│   ├── simswap/
-│   ├── ganimation/
-│   ├── stargan/
-│   └── ...
-```
-
-These noise layers are automatically invoked during test-time robustness evaluation.
-
 
 ## 🔧 Training Command
 
