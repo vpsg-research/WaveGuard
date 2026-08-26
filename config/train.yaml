@@ -1,0 +1,47 @@
+# project_name: deepfake_watermark
+# epochs: 20
+# batch_size: 16
+# lr: 5e-4
+# image_size: 128
+# message_length: 30
+# message_range: 1
+# wm_factor: 0.04
+# device: "cuda:0"
+# encoder_w: 13
+# all_w: 5
+# gnn: 0.01
+# df_w: 3
+# common_w: 4
+# rgb_w: 6
+# ssim_w: 3
+# # checkpoint路径，留空则从头训练。例: exp_highpass/xxx/checkpoint.pth
+# resume_path: /root/autodl-tmp/WaveGuard/exp_highpass/2026.07.26-02.29.45/checkpoint.pth
+# # 续训时覆盖学习率，留空则沿用checkpoint中的lr
+# resume_lr: 1e-06
+# dataset_path: /root/autodl-tmp/CelebAMask-HQ/train
+# saved_images_number: 4
+# wm_channels: 4
+
+project_name: deepfake_watermark
+epochs: 20
+batch_size: 16
+lr: 5e-4
+image_size: 256
+message_length: 128
+message_range: 1
+wm_factor: 0.4
+device: "cuda:0"
+encoder_w: 20
+all_w: 1
+gnn: 0.01
+df_w: 3
+common_w: 3
+rgb_w: 6
+ssim_w: 5
+# checkpoint路径，留空则从头训练。例: exp_highpass/xxx/checkpoint.pth
+resume_path: /root/autodl-tmp/WaveGuard/exp_highpass/2026.07.28-02.06.58/checkpoint.pth
+# 续训时覆盖学习率，留空则沿用checkpoint中的lr
+resume_lr: 1e-05
+dataset_path: /root/autodl-tmp/CelebAMask-HQ/train
+saved_images_number: 4
+wm_channels: 4
