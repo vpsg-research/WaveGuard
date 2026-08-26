@@ -64,7 +64,7 @@ Ensure all images are cropped and resized appropriately before training.
 
 ## 🎛️ Noise Layers
 
-We provide ready-to-use **noise generation layers** for simulating realistic deepfake perturbations in our experiments. Specifically, the following deepfake generation techniques are supported:
+Since we don't own the source code, we recommend downloading and placing the model source code and weights by yourself. The source code can be found at the following links:
 
 - [SimSwap](https://arxiv.org/abs/2106.06340)
 - [GANimation](https://arxiv.org/abs/1807.09251)
