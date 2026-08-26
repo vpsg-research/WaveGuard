@@ -74,8 +74,8 @@ These modules simulate various deepfake attacks and are used to evaluate the rob
 
 
 ## 🔧 Training Command 
-#We employ a progressive training strategy. The model is trained in multiple stages, where the training configuration and loss weights can be gradually adjusted based on the checkpoint obtained from the previous stage. This enables progressive optimization of the model throughout the training process.
 ```python
+#We employ a progressive training strategy. The model is trained in multiple stages, where the training configuration and loss weights can be gradually adjusted based on the checkpoint obtained from the previous stage. This enables progressive optimization of the model throughout the training process.
 python main.py
 ```
 
