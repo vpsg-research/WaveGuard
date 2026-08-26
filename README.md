@@ -73,12 +73,11 @@ Since we don't own the source code, we recommend downloading and placing the mod
 These modules simulate various deepfake attacks and are used to evaluate the robustness and traceability of our watermarking system under adversarial scenarios.
 
 
-## 🔧 Training Command
-
-We employ a progressive training strategy. The model is trained in multiple stages, where the training configuration and loss weights can be gradually adjusted based on the checkpoint obtained from the previous stage. This enables progressive optimization of the model throughout the training process.
-
-```bash
+## 🔧 Training Command 
+#We employ a progressive training strategy. The model is trained in multiple stages, where the training configuration and loss weights can be gradually adjusted based on the checkpoint obtained from the previous stage. This enables progressive optimization of the model throughout the training process.
+python
 python main.py
+
 
 ## 🧪 Test Command
 
